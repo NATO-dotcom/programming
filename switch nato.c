@@ -25,7 +25,6 @@ int main()
         break;
 
         case 5:
-        printf("You chose Five.");
         break;
 
         default :
